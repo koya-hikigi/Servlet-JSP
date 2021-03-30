@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\59941317.index
+\example\src
